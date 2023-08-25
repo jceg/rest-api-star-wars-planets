@@ -1,0 +1,9 @@
+# Django #
+db.sqlite3
+
+# Environments 
+venv/ 
+
+
+# Visual Studio Code # 
+.vscode/* 
